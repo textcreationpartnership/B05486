@@ -1,0 +1,181 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A proclamation, against transporting corns to France. Edinburgh, October 12. 1693.</title>
+            <author>Scotland. Privy Council.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1693</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 6 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B05486</idno>
+            <idno type="STC">Wing S1620</idno>
+            <idno type="STC">ESTC R183356</idno>
+            <idno type="EEBO-CITATION">52528933</idno>
+            <idno type="OCLC">ocm 52528933</idno>
+            <idno type="VID">178985</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B05486)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 178985)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2775:56)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A proclamation, against transporting corns to France. Edinburgh, October 12. 1693.</title>
+                  <author>Scotland. Privy Council.</author>
+                  <author>Scotland. Sovereign (1689-1694 : William and Mary)</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.)   </extent>
+               <publicationStmt>
+                  <publisher>Printed by the heir of Andrew Anderson, Printer to his most excellent Majesty,</publisher>
+                  <pubPlace>[Edinburgh :</pubPlace>
+                  <date>1693]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Royal arms at head of text; initial letter.</note>
+                  <note>Signed: Gilb. Eliot.</note>
+                  <note>Reproduction of the original in the National Library of Scotland.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Grain trade --  Law and legislation --  Scotland --  Early works to 1800.</term>
+               <term>Export controls --  Scotland --  Early works to 1800.</term>
+               <term>Foreign trade regulation --  France --  Early works to 1800.</term>
+               <term>Broadsides --  Scotland --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-06</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-06</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="royal_proclamation">
+            <pb facs="tcp:178985:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 9 -->
+            <head>
+               <figure>
+                  <head>
+                     <figure>
+                        <figDesc>monogram of 'W' (William) superimposed on 'M' (Mary)</figDesc>
+                     </figure> RR</head>
+                  <q>DIEV ET MON DROIT</q>
+                  <q>HONI SOIT QUI MAL Y PENSE</q>
+                  <figDesc>royal blazon or coat of arms</figDesc>
+               </figure>
+            </head>
+            <head>A PROCLAMATION, Againſt Tranſporting Corns to France.</head>
+            <opener>
+               <dateline>Edinburgh, <date>October 12. 1693.</date>
+               </dateline>
+               <signed>
+                  <hi>
+                     <seg rend="decorInit">W</seg>ILLIAM</hi> and <hi>MARY</hi> by the Grace of GOD, King and Queen of <hi>Great-Britain, France</hi> and <hi>Ireland,</hi> De<g ref="char:EOLhyphen"/>fenders of the Faith,</signed>
+               <salute>To <gap reason="blank" extent="1 span">
+                     <desc>〈1 span left blank〉</desc>
+                  </gap> Macers of Our Privy Council, or Meſſengers at Arms, Our Sheriffs in that part, conjunctly and ſeverally, ſpecially conſtitute, Greeting:</salute>
+            </opener>
+            <p>FOR AS MUCH as We are now in War with the <hi>French</hi> King and his Subjects; And by the Eighth Act of the Fourth Seſſion of this Our Current Parliament, It is Statute, that none of the Subjects of this Kingdom preſume to Correſpond, or have Commerce with any perſons reſiding within the Kingdom of <hi>France,</hi> or any of the Dominions ſubject to the <hi>French</hi> King, under the pain of Treaſon. And We conſidering, that the Tranſportation of Corn and Grain of any ſort, to the <hi>French</hi> Kings Dominions, will be of ſingular and great advantage to Our Enemies in their preſent extream want and ſcarcity. Therefore, We with Advice of the Lords of Our Privy Council, Prohibite and Diſcharge all and every one of Our People, and Subjects of this Our ancient Kingdom, and all other Perſons whatſoever, to Export, or cauſe be Exported, directly or indirectly, any Corns or Victual, from this Our ancient King<g ref="char:EOLhyphen"/>dom, to the Kingdom of <hi>France,</hi> or Dominions belonging to the <hi>French</hi> King, under the pains contained in the ſaid Act. And for ren<g ref="char:EOLhyphen"/>dering this Our Prohibition the more effectual, We further Require and Command all Magiſtrats of Burghs, Sheriffs of Sheriffdoms, Stewarts of Stewartries, Lords and Baillies of Regalities, and Our other Officiars whatſoever, and their Deputs <gap reason="illegible: damage" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible: damage" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ake exact care within their reſpective Juriſdictions, and give all diligence for preventing the Export of any Corns or Victual, wi<gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> by Our own Subjects, or Forraigners, to the ſaid Kingdom of <hi>France,</hi> or any other of the Dominions belonging to the <hi>French</hi> King <gap reason="illegible: damage" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> Ships Loadned in whole or in part with Victual, be ſuffered by them to Sail forth of any Harbour, Port, or other places within their re<g ref="char:EOLhyphen"/>ſpective bounds, until firſt the Maſter of the ſaid Ship enact himſelf before any of the ſaids reſpective Magiſtrats or Officiars, under a li<g ref="char:EOLhyphen"/>quid Sum and Penalty equivalent to the value of the Ship to be Sailed by him, and Loadning thereof, not to Un-load, or cauſe Un-load the Victual A board of his ſaid Ship, or any part thereof, directly or indirectly, within any Place or Port of the Kingdom of <hi>France,</hi> or Dominions of the <hi>French</hi> King, but that he ſhall Un-load the ſame at ſome Port or place belonging to ſuch as are in friendſhip with Us or Our Allies: And that alſo he Swear and give his Oath, to be by him Subſcribed, that he ſhall obſerve and keep the terms of the ſaid Enacting, which Enacting and Oath are to be taken before the ſaids Magiſtrats and Officiars <hi>reſpectivè</hi> foreſaid, and Recorded by their Clerks <hi>gratis,</hi> without any allowance therefore. And We with Advice foreſaid, in caſe of the failȝie or refuſal of the ſaid Maſter, Re<g ref="char:EOLhyphen"/>quire and Command the Magiſtrats and Officiars <hi>reſpectivè,</hi> within their particular Juriſdictions, to ſecure and Arreſt all Veſſels Load<g ref="char:EOLhyphen"/>ned with Victual, by taking from the ſaids Ships their Sails and Raes, and to detain them there until Our Privy Council be acquain<g ref="char:EOLhyphen"/>ted therewith, and have ſignified their pleaſure thereanent, And further, We with Advice foreſaid, Require and Command all Ma<g ref="char:EOLhyphen"/>ſters of Veſſels Loadned with Victual, who after Enacting themſelves, and giving their Oath in manner foreſaid, ſhall Sail to any For<g ref="char:EOLhyphen"/>raign Ports, to report and bring back ſufficient Certificats and Documents under the Hand and Seal of the Magiſtrats of the place, or Port-Town where the ſaid Victual is Livered, and alſo of the Conſervator of the <hi>Scots</hi> Priviledges, or <hi>Engliſh</hi> C<gap reason="illegible" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>ul, if any be upon the place, bearing the ſaid Skipper or Maſter of the Ship to have Un-loaded his whole <hi>Cargo</hi> of Victual at the ſaid <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ort; which Certi<g ref="char:EOLhyphen"/>ficats are to be delivered in to the ſaid reſpective Magiſtrats where the ſaid Skipper or Maſter Enacted himſelf, and gave his Oath, before he Sailed forth of this Kingdom, and that within Fifteen days after their return back to this Kingdom from their ſeveral Voyages; with certification to each of the ſaids Skippers or Maſters of the ſaids Ships, in caſe of failȝie of having their Ships Confiſcat to Us, and being further lyable in the value of the Loadning Exported by them, which We hereby require Our Solicitor to do diligence for, and cauſe be payed to the Collector of Our Crown Rents. OUR WILL IS HEREFORE, and We Charge you ſtrictly, and Com<g ref="char:EOLhyphen"/>mand, that incontinent theſe Our Letters ſeen, ye paſs to the Mercat-Croſs of <hi>Edinburgh,</hi> and remanent Mercat Croſſes of the Head Burghs of the ſeveral Shires and Stewartries, and alſo to all Sea-port Towns within this Kingdom; and there in Our Name and Authority, by open Proclamation, make Publication of the Premiſſes, that none may pretend ignorance. And Ordains thir preſents to be Printed.</p>
+            <closer>
+               <dateline>Given under Our Signet at <hi>Edinburgh,</hi> 
+                  <date>the Twelfth day of <hi>October,</hi> and of Our Reign the Fifth Year, 1693.</date>
+               </dateline>
+               <signed>Per Actum Dominorum Secr<gap reason="illegible: damage" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> 
+                  <gap reason="illegible: damage" extent="6 letters">
+                     <desc>••••••</desc>
+                  </gap>lii. In Supple<gap reason="illegible: damage" extent="6+ letters">
+                     <desc>••••••…</desc>
+                  </gap> 
+                  <gap reason="illegible: damage" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap>eti. <hi>GILB. ELIOT,</hi> 
+                  <gap reason="illegible: damage" extent="3 words">
+                     <desc>〈◊◊◊〉</desc>
+                  </gap>
+               </signed>
+               <lb/>
+GOD Save King <hi>VVilliam</hi> and Queen <hi>Mary.</hi>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>
